@@ -1,1 +1,0 @@
-const myDate = new Date('Jun 23, 2023 00:00:00');
